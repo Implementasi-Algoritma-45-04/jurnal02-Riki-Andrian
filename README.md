@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706213028
 
-Nama: 
+Nama: Riki Andrian Nugraha
